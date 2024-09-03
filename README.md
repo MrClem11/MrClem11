@@ -13,9 +13,10 @@ Presented the environment and its capabilities to peers, showcasing the results 
 <b>
 
 </b>
-- <b>Project: Digital Forensics Investigation
+
+- <b>Project: Digital Forensics Investigation</b>
  
-Overview: Conducted a digital forensics investigation using Autopsy in Kali Linux, focusing on analyzing iPhone image files related to a fictional criminal case.
+<b>Overview: Conducted a digital forensics investigation using Autopsy in Kali Linux, focusing on analyzing iPhone image files related to a fictional criminal case.
 Tasks:
 Examined SMS messages and exported attachments to identify potential evidence.
 Analyzed media files, including .HEIC and .MOV formats, to extract and interpret data such as geographic locations and video content.
