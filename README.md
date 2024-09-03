@@ -1,4 +1,5 @@
-<h1>Hi, I'm Sean! <br/><b>I'm transitioning into cybersecurity with a focus on becoming a SOC analyst. As a student in the UC Berkeley Extension Cybersecurity Bootcamp, I've gained hands-on experience in security monitoring and digital forensics. My GitHub showcases the projects that have prepared me for the challenges of a SOC analyst role. I'm excited to connect with others in the field and contribute to the cybersecurity community.</b>
+<h1>Hi, I'm Sean! </h1>
+  <b>I'm transitioning into cybersecurity with a focus on becoming a SOC analyst. As a student in the UC Berkeley Extension Cybersecurity Bootcamp, I've gained hands-on experience in security monitoring and digital forensics. My GitHub showcases the projects that have prepared me for the challenges of a SOC analyst role. I'm excited to connect with others in the field and contribute to the cybersecurity community.</b>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
