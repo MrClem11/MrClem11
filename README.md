@@ -9,8 +9,7 @@ Tasks:
 Designed and configured Splunk to monitor and analyze security events.
 Tested the environment by simulating attacks to evaluate its effectiveness.
 Presented the environment and its capabilities to peers, showcasing the results and key findings.</b>
-<b>
-[SOC Analyst Project Using Splunk](https://docs.google.com/document/d/1H0ArV3fWwnz-QApyergOZ6xue9uR4Y8crG9BiJdaIOw/edit?usp=sharing)</b>
+- <b>[SOC Analyst Project Using Splunk](https://docs.google.com/document/d/1H0ArV3fWwnz-QApyergOZ6xue9uR4Y8crG9BiJdaIOw/edit?usp=sharing)</b>
 <b>
 
 </b>
@@ -23,7 +22,7 @@ Examined SMS messages and exported attachments to identify potential evidence.
 Analyzed media files, including .HEIC and .MOV formats, to extract and interpret data such as geographic locations and video content.
 Collaborated with a team to compile findings into a comprehensive final case report.
 Investigated leads to potentially identify the ringleader, known as "Mr. X," using advanced forensic techniques.</b>
-<b> 
+- <b> 
 [Digital Forensics and Incident Response Project](https://docs.google.com/document/d/13Wj7ANVXr7FMWY5vw6ew-Nd760d0kMGjOiOJbcCRSzc/edit?usp=sharing)</b>
 
     
