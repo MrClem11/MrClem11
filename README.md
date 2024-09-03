@@ -17,7 +17,7 @@ Presented the environment and its capabilities to peers, showcasing the results 
 
 </b>
 
-<h3>Project: Digital Forensics Investigation</h3>
+<h3>Project: Digital Forensics Investigation using Kali Linux and Autopsy</h3>
  
 - <b>Overview: Conducted a digital forensics investigation using Autopsy in Kali Linux, focusing on analyzing iPhone image files related to a fictional criminal case.
 Tasks:
