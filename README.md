@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <h3>Project: Custom Security Monitoring Environment in Splunk</h3>
+<h3>Project: Custom Security Monitoring Environment in Splunk</h3>
   
 - <b>Overview: Developed and implemented a custom security monitoring environment using Splunk for a fictional organization.
 Tasks:
@@ -15,9 +15,9 @@ Presented the environment and its capabilities to peers, showcasing the results 
 
 </b>
 
-- <h3>Project: Digital Forensics Investigation</h3>
+<h3>Project: Digital Forensics Investigation</h3>
  
-<b>Overview: Conducted a digital forensics investigation using Autopsy in Kali Linux, focusing on analyzing iPhone image files related to a fictional criminal case.
+- <b>Overview: Conducted a digital forensics investigation using Autopsy in Kali Linux, focusing on analyzing iPhone image files related to a fictional criminal case.
 Tasks:
 Examined SMS messages and exported attachments to identify potential evidence.
 Analyzed media files, including .HEIC and .MOV formats, to extract and interpret data such as geographic locations and video content.
