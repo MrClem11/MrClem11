@@ -22,8 +22,7 @@ Examined SMS messages and exported attachments to identify potential evidence.
 Analyzed media files, including .HEIC and .MOV formats, to extract and interpret data such as geographic locations and video content.
 Collaborated with a team to compile findings into a comprehensive final case report.
 Investigated leads to potentially identify the ringleader, known as "Mr. X," using advanced forensic techniques.</b>
-- <b> 
-[Digital Forensics and Incident Response Project](https://docs.google.com/document/d/13Wj7ANVXr7FMWY5vw6ew-Nd760d0kMGjOiOJbcCRSzc/edit?usp=sharing)</b>
+- <b>[Digital Forensics and Incident Response Project](https://docs.google.com/document/d/13Wj7ANVXr7FMWY5vw6ew-Nd760d0kMGjOiOJbcCRSzc/edit?usp=sharing)</b>
 
     
 - <b>PowerShell</b>
