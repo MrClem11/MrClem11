@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Project: Custom Security Monitoring Environment in Splunk
-- 
+  
 Overview: Developed and implemented a custom security monitoring environment using Splunk for a fictional organization.
 Tasks:
 Designed and configured Splunk to monitor and analyze security events.
@@ -14,14 +14,16 @@ Presented the environment and its capabilities to peers, showcasing the results 
 
 </b>
 - <b>Project: Digital Forensics Investigation
-- 
+ 
 Overview: Conducted a digital forensics investigation using Autopsy in Kali Linux, focusing on analyzing iPhone image files related to a fictional criminal case.
 Tasks:
 Examined SMS messages and exported attachments to identify potential evidence.
 Analyzed media files, including .HEIC and .MOV formats, to extract and interpret data such as geographic locations and video content.
 Collaborated with a team to compile findings into a comprehensive final case report.
 Investigated leads to potentially identify the ringleader, known as "Mr. X," using advanced forensic techniques.</b>
-  - [Digital Forensics and Incident Response Project](https://docs.google.com/document/d/13Wj7ANVXr7FMWY5vw6ew-Nd760d0kMGjOiOJbcCRSzc/edit?usp=sharing) <b><i>(Potentially NSFW)</b></i>
+  - [Digital Forensics and Incident Response Project](https://docs.google.com/document/d/13Wj7ANVXr7FMWY5vw6ew-Nd760d0kMGjOiOJbcCRSzc/edit?usp=sharing)
+
+    
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
