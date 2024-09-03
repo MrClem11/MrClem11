@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Project: Custom Security Monitoring Environment in Splunk
+- <h1>Project: Custom Security Monitoring Environment in Splunk</h1>
   
-Overview: Developed and implemented a custom security monitoring environment using Splunk for a fictional organization.
+<b>Overview: Developed and implemented a custom security monitoring environment using Splunk for a fictional organization.
 Tasks:
 Designed and configured Splunk to monitor and analyze security events.
 Tested the environment by simulating attacks to evaluate its effectiveness.
