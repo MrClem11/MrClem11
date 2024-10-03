@@ -5,8 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <h3>Project: Custom Security Monitoring Environment in Splunk</h3>
-  - <b>[SOC Analyst Project Using Splunk](https://docs.google.com/document/d/1H0ArV3fWwnz-QApyergOZ6xue9uR4Y8crG9BiJdaIOw/edit?usp=sharing)
-    
+ 
 - <b>Overview: Developed and implemented a custom security monitoring environment using Splunk for a fictional organization.
 Tasks:
 Designed and configured Splunk to monitor and analyze security events.
