@@ -4,17 +4,17 @@
 
 <h2>💻 Technical Skills:</h2>
 
-Security Monitoring: Splunk, Wireshark, Snort
-Penetration Testing: Nmap, Metasploit, Zenmap, Shodan.io, Recon-ng, Searchsploit, Responder
-Digital Forensics: Kali Linux, Autopsy, FTK Imager
-Programming & Scripting: Basic experience with Python and Bash
-Vulnerability Management: cve.org, John the Ripper, MITRE ATT&CK, OWASP Top 10
-Incident Response: Logging & analysis, root cause analysis, network defense strategies
-Governance, Risk, and Compliance (GRC): Understanding of NIST, GDPR, HIPAA, and SOC 2 frameworks
-Cloud Security: Basic knowledge of AWS security, Identity and Access Management (IAM)
-Access Control: Implemented least privilege, user roles, and group policies across SaaS systems
-Encryption & Cryptography: Familiarity with hashing, PKI, SSL/TLS
-Network Security: Firewalls, IDS/IPS (Snort)
+- Security Monitoring: Splunk, Wireshark, Snort
+- Penetration Testing: Nmap, Metasploit, Zenmap, Shodan.io, Recon-ng, Searchsploit, Responder
+- Digital Forensics: Kali Linux, Autopsy, FTK Imager
+- Programming & Scripting: Basic experience with Python and Bash
+- Vulnerability Management: cve.org, John the Ripper, MITRE ATT&CK, OWASP Top 10
+- Incident Response: Logging & analysis, root cause analysis, network defense strategies
+- Governance, Risk, and Compliance (GRC): Understanding of NIST, GDPR, HIPAA, and SOC 2 frameworks
+- Cloud Security: Basic knowledge of AWS security, Identity and Access Management (IAM)
+- Access Control: Implemented least privilege, user roles, and group policies across SaaS systems
+- Encryption & Cryptography: Familiarity with hashing, PKI, SSL/TLS
+- Network Security: Firewalls, IDS/IPS (Snort)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
