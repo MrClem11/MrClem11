@@ -18,8 +18,7 @@
 Tasks:
 Designed and configured Splunk to monitor and analyze security events.
 Tested the environment by simulating attacks to evaluate its effectiveness.
-Presented the environment and its capabilities to peers, showcasing the results and key findings.
-</b>
+Presented the environment and its capabilities to peers, showcasing the results and key findings.</b>
   - <b>[SOC Analyst Project Using Splunk](https://docs.google.com/document/d/1H0ArV3fWwnz-QApyergOZ6xue9uR4Y8crG9BiJdaIOw/edit?usp=sharing)
 </b>
 <b>
@@ -30,8 +29,7 @@ Presented the environment and its capabilities to peers, showcasing the results 
  
 - <b>Overview: Conducted a digital forensics investigation using Autopsy in Kali Linux, focusing on analyzing iPhone image files related to a fictional criminal case.
 Conducted an investigation of iPhone image files for a criminal case simulation.
-Examined SMS messages, geographic data from media files, and compiled evidence into a report.
-</b>
+Examined SMS messages, geographic data from media files, and compiled evidence into a report.</b>
   - <b>[Digital Forensics and Incident Response Project](https://docs.google.com/document/d/13Wj7ANVXr7FMWY5vw6ew-Nd760d0kMGjOiOJbcCRSzc/edit?usp=sharing)
 </b>
 
@@ -39,9 +37,7 @@ Examined SMS messages, geographic data from media files, and compiled evidence i
  
 - <b>Overview: Pentest overview
 Simulated a real-world cyberattack on MegacorpOne, from reconnaissance to post-exploitation.
-Tools: Google Dorking, Shodan.io, Recon-ng, Zenmap, Nmap, Responder, Metasploit, SSH, John the Ripper.
-
-</b>
+Tools: Google Dorking, Shodan.io, Recon-ng, Zenmap, Nmap, Responder, Metasploit, SSH, John the Ripper.</b>
   - <b>[Penetration Test Simulation Project](https://docs.google.com/document/d/1Uke2hxYr1Mwbtzbv8S-mjqd5gG_bpFt-nsaCYB5-6Mc/edit?usp=sharing)
 </b>
 
