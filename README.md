@@ -36,7 +36,7 @@ Presented the environment and its capabilities to peers, showcasing the results 
 - <b>Overview: Conducted a digital forensics investigation using Autopsy in Kali Linux, focusing on analyzing iPhone image files related to a fictional criminal case.
 Conducted an investigation of iPhone image files for a criminal case simulation.
 Examined SMS messages, geographic data from media files, and compiled evidence into a report.</b>
-  - <b>[Digital Forensics and Incident Response Project](https://docs.google.com/document/d/13Wj7ANVXr7FMWY5vw6ew-Nd760d0kMGjOiOJbcCRSzc/edit?usp=sharing)
+  - <b>[Digital Forensics Project](https://docs.google.com/document/d/13Wj7ANVXr7FMWY5vw6ew-Nd760d0kMGjOiOJbcCRSzc/edit?usp=sharing)
 </b>
 
 <h3>Project: Penetration Test Simulation</h3>
@@ -45,6 +45,19 @@ Examined SMS messages, geographic data from media files, and compiled evidence i
 Simulated a real-world cyberattack on MegacorpOne, from reconnaissance to post-exploitation.
 Tools: Google Dorking, Shodan.io, Recon-ng, Zenmap, Nmap, Responder, Metasploit, SSH, John the Ripper.</b>
   - <b>[Penetration Test Simulation Project](https://docs.google.com/document/d/1Uke2hxYr1Mwbtzbv8S-mjqd5gG_bpFt-nsaCYB5-6Mc/edit?usp=sharing)
+</b>
+
+<h3>Project: Penetration CTF Test Simulation</h3>
+ 
+- <b>Overview: Pentest overview
+I performed a comprehensive security analysis on web applications and operating systems using a variety of tools. For web applications, I identified XSS vulnerabilities, SQL Injection, Local File Inclusion (LFI), PHP Injection, and Command Injection using tools like Burp Suite and SQLMap, highlighting risks ranging from minimal to critical. I also detected issues in session management and directory traversal, which posed threats to user authentication and data security.
+
+On Linux, I conducted OSINT and network scanning using Nmap and Nessus, discovering vulnerabilities related to SSL certificates, privilege escalation, and remote code execution in applications like Tomcat and Drupal. Post-exploitation control revealed moderate ongoing risks.
+
+For Windows, I used Nmap, Metasploit, and OSINT techniques to expose vulnerabilities in SLMail, HTTP/FTP enumeration, and user enumeration. I also identified critical flaws in access escalation and scheduled tasks that could lead to unauthorized system control.
+
+This assessment showcased my ability to uncover critical security flaws and implement various tools effectively in both offensive and defensive security contexts.</b>
+  - <b>[Penetration CTF Test Simulation Project](https://docs.google.com/document/d/1Aq1khxdiXCyupO4bqNaVrttDqJ-iaApe0Xu3iLEOK1k/edit?usp=sharing)
 </b>
 
 <h2> 🤳 Connect with me:</h2>
